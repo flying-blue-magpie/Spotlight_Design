@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="Ellipse_22" x="0" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_2-0-a_icon1" data-name="2-0-a_icon1" transform="translate(-306 -94)">
+    <g id="_2-2_icon_1" data-name="2-2_icon_1" transform="translate(-24 -100)">
+      <g transform="matrix(1, 0, 0, 1, 330, 194)" filter="url(#Ellipse_22)">
+        <g id="Ellipse_22-2" data-name="Ellipse 22" transform="translate(9 6)" fill="#fff" stroke="#eee" stroke-width="1">
+          <circle cx="15" cy="15" r="15" stroke="none"/>
+          <circle cx="15" cy="15" r="14.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="baseline-delete_outline-24px" transform="translate(320 105)">
+      <path id="Path_284" data-name="Path 284" d="M5.778,15.444A1.56,1.56,0,0,0,7.333,17h6.222a1.56,1.56,0,0,0,1.556-1.556V6.111H5.778ZM7.333,7.667h6.222v7.778H7.333Zm5.833-3.889L12.389,3H8.5l-.778.778H5V5.333H15.889V3.778Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
