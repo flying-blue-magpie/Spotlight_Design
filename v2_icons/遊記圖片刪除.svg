@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <filter id="Ellipse_22" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="遊記圖片刪除" transform="translate(-306 -94)">
+    <g id="_2-2_icon_1" data-name="2-2_icon_1" transform="translate(315 100)">
+      <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Ellipse_22)">
+        <g id="Ellipse_22-2" data-name="Ellipse 22" transform="translate(9 6)" fill="#fff" stroke="#eee" stroke-width="1">
+          <circle cx="9" cy="9" r="9" stroke="none"/>
+          <circle cx="9" cy="9" r="8.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="baseline-clear-24px" transform="translate(1458 -2534.339)">
+      <path id="Path_156" data-name="Path 156" d="M15,6.007,13.993,5,10,8.993,6.007,5,5,6.007,8.993,10,5,13.993,6.007,15,10,11.007,13.993,15,15,13.993,11.007,10Z" transform="translate(-1144 2633.339)" fill="#333"/>
+    </g>
+  </g>
+</svg>
